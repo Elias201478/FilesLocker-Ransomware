@@ -52,3 +52,10 @@ Avoid suspicious email attachments, torrents, and cracked software.
 
 Regularly back up important files to offline or cloud storage.
 
+and now your all done!
+
+# But... Warning!
+
+Manual removal is risky and can damage your system if done incorrectly. Safer to rely on automated tools.
+if you do it Without Ransomware it can damage your System.
+Also Do Not Attempet to Rename encrypted files this is useless it cannot decrypt your files youll lose it permanently.
